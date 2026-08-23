@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689680719346",
+    "project_id": "deliveryapp-77614",
+    "storage_bucket": "deliveryapp-77614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689680719346:android:7eb960e4f9bf977258df6b",
+        "android_client_info": {
+          "package_name": "com.service_booking_app.service_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjzAJ8O4wX3fOCDpZFQp3UbX_X5LeAEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
